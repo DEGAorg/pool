@@ -1,0 +1,24 @@
+{
+    "verification":"b71314b68eadf96b51",
+    "info": {
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/DEGAorg/pool/main/logo_ico.png",
+        "url_png_logo": "https://raw.githubusercontent.com/DEGAorg/pool/main/logo.png",
+        "location": "Singapore",
+        "social": {
+            "twitter_handle": "DEGA_org",
+            "telegram_handle": "dega_org",
+            "facebook_handle": "DEGA.org",
+            "youtube_handle": "DEGA_org",
+            "twitch_handle": "dega_org",
+            "discord_handle": "dega"
+        },
+        "company": {
+            "name": "DEGA",
+            "addr": "Robinson road",
+            "country": "Singapore"
+        },
+        "about": {
+            "me": "DEGA Initial Stakepool Offering for building the FIRST ever multichain blockchain gaming infrastructure."
+        }
+    }
+}
